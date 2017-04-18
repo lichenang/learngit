@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
+一个自定义相机，同时用USB控制一个灯，所以考取的代码一定不好使，需要自己把相机的那部分提取出来。
